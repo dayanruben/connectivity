@@ -21,3 +21,5 @@ demo/iosApp/iosApp.xcodeproj/*
 publish.sh
 .kotlin
 dokka
+
+.junie
