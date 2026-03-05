@@ -9,6 +9,7 @@ permissions:
 
 jobs:
   release:
+    if: github.repository == 'jordond/connectivity'
     name: Publish library
     runs-on: macos-latest
     steps:
